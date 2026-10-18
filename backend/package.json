@@ -1,0 +1,21 @@
+{
+  "name": "recipe-crud-backend",
+  "version": "1.0.0",
+  "description": "ICT251 Activity 4 - Personal Recipe Card CRUD API",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "keywords": [],
+  "author": "Charles Makwembo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  }
+}
