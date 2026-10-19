@@ -5,7 +5,7 @@
 
 // Change this to your deployed backend URL once published, e.g.
 // const API_BASE = "https://your-backend.onrender.com/api/recipes";
-const API_BASE = "https://YOUR-BACKEND-URL.onrender.com/api/recipes";
+const API_BASE = "https://recipe-crud-api-fs6x.onrender.com/api/recipes";
 
 const form = document.getElementById("recipe-form");
 const formTitle = document.getElementById("form-title");
